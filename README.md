@@ -30,7 +30,7 @@ See `MIPS_IDE_report.pdf` for details.
 
 Assembler:
 
-## ![screenshot1](/Users/zty/Downloads/JAssembler/screenshot1.png)
+## ![screenshot1](./screenshot1.png)
 
 Disassembler:
 
