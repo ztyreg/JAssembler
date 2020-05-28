@@ -2,21 +2,27 @@
 
 ## Introduction
 
-This is a MIPS assembler IDE. Supports the conversion of 3 file formats: asm, bin, coe.
+This is a simple MIPS assembler IDE.
+
+**Functions:** assembling and disassembling.
+
+**Supported instructions:** all MISP R2000 instructions and pseudoinstructions.
+
+**Supported file formats:** asm, bin, coe (input and output).
 
 ## Get Started
 
 There are 3 subdirectories: TestCases, IdeaProject and CommandLineProject.
 
-### TestCases
+###### TestCases:
 
 This directory contains test cases.
 
-### IdeaProject
+###### IdeaProject
 
 Open and build with IntelliJ Idea.
 
-### CommandLineProject
+###### CommandLineProject
 
 Run following commands:
 
@@ -26,7 +32,7 @@ Run following commands:
 
 ## Screenshots
 
-See `MIPS_IDE_report.pdf` for details.
+See `MIPS_IDE_report.pdf` for details (in Mandarin).
 
 Assembler:
 
