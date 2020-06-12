@@ -42,9 +42,9 @@ Disassembler:
 
 ![screenshot2](./screenshot2.png)
 
+## Features
 
-
-
+See [MIPS_IDE_report.pdf](./MIPS_IDE_report.pdf) for details (in Mandarin).
 
 
 
