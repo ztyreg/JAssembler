@@ -10,7 +10,7 @@ This is a simple MIPS assembler IDE.
 
 **Supported file formats:** asm, bin, coe (input and output).
 
-See [MIPS_IDE_report.pdf](./MIPS_IDE_report.pdf) for details (in Mandarin).
+See [MIPS_IDE_report.pdf](./MIPS_IDE_report.pdf) for details (in Chinese).
 
 ## Get Started
 
