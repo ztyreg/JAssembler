@@ -6,7 +6,9 @@ This is a simple MIPS assembler IDE.
 
 **Functions:** assembling and disassembling.
 
-**Supported instructions:** 128 MISP R2000 integer [https://github.com/ztyreg/JAssembler/blob/master/CommandLineProject/mips_int.csv](instructions) and pseudoinstructions.
+**Supported instructions:** 128 MISP R2000 integer pseudo/instructions
+* [List of instructions](https://github.com/ztyreg/JAssembler/blob/master/CommandLineProject/mips_int.csv)
+* [List of pseudoinstructions](https://github.com/ztyreg/JAssembler/blob/master/CommandLineProject/mips_pseudo.csv).
 
 **Supported file formats:** asm, bin, coe (input and output).
 
