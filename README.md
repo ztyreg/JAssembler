@@ -6,7 +6,7 @@ This is a simple MIPS assembler IDE.
 
 **Functions:** assembling and disassembling.
 
-**Supported instructions:** all MISP R2000 instructions and pseudoinstructions.
+**Supported instructions:** 128 MISP R2000 integer instructions and pseudoinstructions.
 
 **Supported file formats:** asm, bin, coe (input and output).
 
