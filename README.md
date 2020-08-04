@@ -4,7 +4,7 @@
 
 This is a simple MIPS assembler IDE.
 
-**Functions:** assembling and disassembling.
+**Functionalities:** assembling and disassembling.
 
 **Supported instructions:** 128 MISP R2000 integer pseudo/instructions
 * [List of instructions](https://github.com/ztyreg/JAssembler/blob/master/CommandLineProject/mips_int.csv)
